@@ -2,7 +2,11 @@
 CREATE : database and table
 
 //syntax for creating database
-CREATE DATABASE dababase_name;
-CREATE DATABASE june_27;
-use march_27;
+
+CREATE DATABASE zomato_items;
+CREATE DATABASE temple_godnames;
+CREATE DATABASE building_floors;
+
+
+
 
